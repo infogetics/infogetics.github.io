@@ -20,5 +20,15 @@ The focus is on maintaining expressive text as an interchange format.
 Sensorium A project for mapping out software, APIs, etc. for providing some kind of sense to an AI.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://infogetics.github.io/about/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +1300</pubDate>
+      
+      <guid>https://infogetics.github.io/about/</guid>
+      <description>Infogetics is a GitHub organisation that maps software for transforming one type of information into another with the aim of developing an augmented intelligence sensorium.
+ Here&amp;rsquo;s some art http://kinetecharts.org/ai-sensorium  Shane Mulligan  Website: Bodacious Blog GitHub: https://github.com/mullikine/ CV: https://mullikine.github.io/cv/  TakaheAI  Website http://takaheai.github.io/  </description>
+    </item>
+    
   </channel>
 </rss>
